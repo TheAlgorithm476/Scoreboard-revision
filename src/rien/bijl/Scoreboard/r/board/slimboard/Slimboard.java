@@ -1,12 +1,10 @@
 package rien.bijl.Scoreboard.r.board.slimboard;
 
 import me.clip.placeholderapi.PlaceholderAPI;
-import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.scoreboard.*;
-import rien.bijl.Scoreboard.r.Main;
 import rien.bijl.Scoreboard.r.Session;
 import rien.bijl.Scoreboard.r.board.App;
 

@@ -96,6 +96,7 @@ board:
       interval: 80
       liner:
       - 'made by HelloitsRien.'
+      - 'maintained by TheAlgorithm476'
     50:
       interval: 5
       liner:

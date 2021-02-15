@@ -1,4 +1,5 @@
 package rien.bijl.Scoreboard.r;
+
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;

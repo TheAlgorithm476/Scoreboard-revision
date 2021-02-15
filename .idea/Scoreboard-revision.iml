@@ -10,21 +10,21 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Ontwikkeling/Minecraft servers/1.13.2/plugins/PlaceholderAPI-2.10.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/spigot-1.16.5.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/spigot-1.16.5.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Ontwikkeling/Minecraft servers/1.13.2/spigot.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/PlaceholderAPI-2.10.9.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="jar://C:/Ontwikkeling/Minecraft servers/1.13.2/spigot.jar!/" />
-        </SOURCES>
+        <SOURCES />
       </library>
     </orderEntry>
   </component>

@@ -1,15 +1,11 @@
 package rien.bijl.Scoreboard.r.board;
 
 import me.clip.placeholderapi.PlaceholderAPI;
-import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import rien.bijl.Scoreboard.r.Main;
 import rien.bijl.Scoreboard.r.Session;
-import rien.bijl.Scoreboard.r.board.App;
-import rien.bijl.Scoreboard.r.board.Row;
 import rien.bijl.Scoreboard.r.board.slimboard.Slimboard;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
 /**

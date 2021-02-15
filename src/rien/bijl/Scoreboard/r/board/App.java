@@ -3,7 +3,6 @@ package rien.bijl.Scoreboard.r.board;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;
-import rien.bijl.Scoreboard.r.Main;
 import rien.bijl.Scoreboard.r.Session;
 import rien.bijl.Scoreboard.r.board.events.EDeintergrate;
 import rien.bijl.Scoreboard.r.board.events.EIntergrate;
